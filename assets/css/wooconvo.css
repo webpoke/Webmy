@@ -1,0 +1,21 @@
+/** OrdeConvo CSS **/
+
+#orderconvo_root{
+    background-color: #fff;
+}
+
+.wooconvo-wp-admin-wrapper{
+    margin-top: 20px;
+}
+
+
+/** new order icon in My Account for users 
+** frontend
+*/
+.wooconvo-myaccount-new{
+    display: flex;
+    align-items: center;
+}
+.wooconvo-myaccount-new::after{
+    content: "✉️";
+}
