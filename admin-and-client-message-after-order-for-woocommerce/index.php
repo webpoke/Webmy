@@ -1,6 +1,0 @@
-<?php
-/**
- * Not Allowed
- * Thanks.
- */
-?>
